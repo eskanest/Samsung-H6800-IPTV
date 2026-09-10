@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru@SD",НТВ
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия-К
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD",РБК-ТВ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru@SD",Кино TV
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 tvg-id="Kinomix.ru@SD",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru@SD",Дом кино
+http://stream.mcquack.net/236/index.m3u8
