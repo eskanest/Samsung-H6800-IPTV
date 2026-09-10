@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Тест H6800",Первый канал — тест
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Тест H6800",НТВ — тест 576p
+http://94.230.128.107:8080/HTB/index.m3u8
+#EXTINF:-1 group-title="Тест H6800",РБК-ТВ — тест 576p
+http://hls127.freeott.top:8080/RBK/video.m3u8
+#EXTINF:-1 group-title="Тест H6800",Матч! — тест 576p
+http://130.193.73.10:8937/play/a048
+#EXTINF:-1 group-title="Кино",КИНОТВ — рабочий вариант
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино",Дом кино — тест
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Тест H6800",Россия 1 — тест 576p
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 group-title="Тест H6800",Россия 24 — тест 576p
+http://94.230.129.31:8080/Rossia_24/index.m3u8
