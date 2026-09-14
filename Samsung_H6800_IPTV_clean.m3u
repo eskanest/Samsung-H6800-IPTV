@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 group-title="Первый",Первый канал A — SD
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Первый",Первый канал B — Cinerama
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Первый",Первый канал C — старый
+http://45.153.24.78:80/1TV/index.m3u8
+#EXTINF:-1 group-title="НТВ",НТВ A — SD
+http://94.230.128.107:8080/HTB/index.m3u8
+#EXTINF:-1 group-title="НТВ",НТВ B — официальный SD
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 group-title="НТВ",НТВ C — Cinerama
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="РБК",РБК A — 480p
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="РБК",РБК B — 576p
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="РБК",РБК C — СПБ
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="Матч",Матч ТВ A — CDNVideo
+https://live-hls-tvplusonline.cdnvideo.ru/matchtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Матч",Матч ТВ B — 576p
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="Матч",Матч ТВ C — альтернативный
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="Россия 1",Россия 1 A — SD
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 group-title="Россия 1",Россия 1 B — Cinerama
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия 24",Россия 24 A — SD
+http://94.230.129.31:8080/Rossia_24/index.m3u8
+#EXTINF:-1 group-title="Россия 24",Россия 24 B — Cinerama
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия 24",Россия 24 C — Smotrim
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1 group-title="Кино",КИНОТВ — рабочий
+https://vod.tuva.ru/kinotv/index.m3u8
