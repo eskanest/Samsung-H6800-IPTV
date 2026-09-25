@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Россия",Первый канал
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 group-title="Россия",РБК-ТВ
+http://hls127.freeott.top:8080/RBK/video.m3u8
+#EXTINF:-1 group-title="Россия",Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Россия",НТВ — вариант 1
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Россия",НТВ — вариант 2
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Россия",НТВ — вариант 3
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Россия",НТВ — вариант 4
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 group-title="Россия",НТВ — вариант 5
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
