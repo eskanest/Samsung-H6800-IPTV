@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Россия",Первый канал
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="Россия",Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" group-title="Россия",Россия 1 HD
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Россия",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-name="Россия 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="Россия",Россия 24 HD
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Россия",НТВ
+http://45.153.24.78/NTV/index.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Россия",РЕН ТВ
+http://31.148.48.15/REN-TV/index.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Россия",СТС
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Россия",СТС HD
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Ультра" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Россия",Матч! Ультра
+http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="Россия",Матч! Арена
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Россия",РБК
+http://hls127.freeott.top:8080/RBK/video.m3u8
