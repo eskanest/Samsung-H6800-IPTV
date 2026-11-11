@@ -4,7 +4,7 @@ http://178.217.49.7/1/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-name="Россия 1",Россия 1
 http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-name="НТВ",НТВ
-http://flussonic.linkintel.ru/ntv/tracks-v1a1/mono.ts.m3u8
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="Матч!",Матч!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="Матч! Арена",Матч! Арена
