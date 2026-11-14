@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Федеральные" tvg-name="Первый канал",Первый канал+6ч
+#EXTINF:-1 group-title="Федеральные" tvg-name="Первый канал",Первый канал+5ч
 http://178.217.49.7/1/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-name="Россия 1",Россия 1
 http://109.207.243.18/2/index.m3u8
+#EXTINF:-1 group-title="Федеральные" tvg-name="НТВ",НТВ+3ч
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-name="РБК",РБК
+http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-name="НТВ",НТВ+8ч
 http://31.148.5.241/kanal_4/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="Матч!",Матч!
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-name="Матч! Арена",Матч! Арена
 http://stream.mcquack.net/163/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-name="РБК",РБК
-http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="Кино" tvg-name="Дом Кино",Дом Кино
-http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-name="Дом Кино Премиум HD",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-name="Дом Кино",Дом Кино
+http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-name="Кино ТВ",Кино ТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-name="НТВ",НТВ+3ч
-http://176.118.197.101/NTV/index.m3u8
